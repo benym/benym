@@ -8,10 +8,11 @@
 
 ### 🪐Github Analysis
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=benym&show_icons=true&theme=tokyonight" />
-<img src="https://streak-stats.demolab.com/?user=benym&theme=dark" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=benym&show_icons=true&theme=gruvbox" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benym&layout=compact&theme=dark" />
 </div>
 <div align="center">
+<img src="https://streak-stats.demolab.com/?user=benym&theme=dark" />
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=benym&theme=xcode" />
 </div>
 
