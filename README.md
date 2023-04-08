@@ -1,20 +1,12 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=benym&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
 ### Hello~👋
-- 😎 Focusing on Java backend
-- 💡 Participated in research on Graph Embedding and VAE
-- 🏸 Like to play games
-<!--
-**benym/benym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=benym&style=flat-square&color=orange)
 
-Here are some ideas to get you started:
+- 😎 Focusing on Java Backend and Cloud Native
+- 💡 Participated in Research on Graph Embedding and VAE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🪐Github Analysis
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=benym&show_icons=true&theme=tokyonight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" />
+
+### 🏆Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=benym&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
