@@ -8,8 +8,8 @@
 
 ### 🪐Github Analysis
 <div align="center">
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=benym&show_icons=true" />
-<img height="180px" src="https://streak-stats.demolab.com/?user=benym" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=benym&show_icons=true" />
+<img height="150px" src="https://streak-stats.demolab.com/?user=benym" />
 </div
 
 ### ✅Activity
