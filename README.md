@@ -9,11 +9,12 @@
 ### 🪐Github Analysis
 <div align="center">
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=benym&show_icons=true" />
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benym&layout=compact" />
-</div>
+<img height="180px" src="https://streak-stats.demolab.com/?user=benym" />
+</div
+
+### ✅Activity
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=benym" />
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=benym" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=benym&theme=xcode" />
 </div>
 
 ### 🏆Trophy
