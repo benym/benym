@@ -14,7 +14,7 @@
 
 ### ✅Activity
 <div align="center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=benym&theme=xcode" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=benym&theme=xcode" />
 </div>
 
 ### 🏆Trophy
