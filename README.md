@@ -4,7 +4,7 @@
 </div>
 
 - 🔭 I’m Spring AI Alibaba Contributor
-- 😎 I'm Focusing on Java Backend and Cloud Native
+- 😎 I'm Focusing on AI Agent and Cloud Native
 - 💡 Participated in Research on Graph Embedding and VAE
 
 ### 🪐Github Analysis
