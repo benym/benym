@@ -3,7 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=benym&style=flat-square&color=orange" />
 </div>
 
-- 🔭 I’m Spring AI Alibaba Contributor
 - 😎 I'm Focusing on AI Agent and Cloud Native
 - 💡 Participated in Research on Graph Embedding and VAE
 
