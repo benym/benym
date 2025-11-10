@@ -4,7 +4,7 @@
 </div>
 
 - 😎 I'm Focusing on AI Agent and Cloud Native
-- 💡 Participated in Research on Graph Embedding and VAE
+- 💡 Participated in Research on Graph Embedding and Generative AI
 
 ### 🪐Github Analysis
 <div align="center">
