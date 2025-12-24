@@ -6,6 +6,10 @@
 - 😎 I'm Focusing on AI Agent and Cloud Native
 - 💡 Participated in Research on Graph Embedding and Generative AI
 
+### 🙋 Open source experience
+
+- Spring AI Alibaba
+
 ### 🪐Github Analysis
 <div align="center">
 <img height="170px" src="https://github-readme-stats-fast.vercel.app/api?username=benym&show_icons=true" />
