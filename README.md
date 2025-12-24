@@ -19,5 +19,5 @@
 
 ### 🏆Trophy
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=benym&theme=onedark" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=benym&theme=onedark" />
 </div
