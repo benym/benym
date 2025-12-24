@@ -8,7 +8,7 @@
 
 ### 🪐Github Analysis
 <div align="center">
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=benym&show_icons=true" />
+<img height="170px" src="https://github-readme-stats-fast.vercel.app/api?username=benym&show_icons=true" />
 <img height="170px" src="https://streak-stats.demolab.com/?user=benym" />
 </div>
 
