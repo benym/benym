@@ -14,6 +14,7 @@
 
 ### ✅Activity
 <div align="center">
+<img src="https://github.com/benym/benym/blob/output/github-contribution-grid-snake.svg" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=benym&theme=xcode" />
 </div>
 
