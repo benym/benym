@@ -9,6 +9,7 @@
 ### 🙋 Open source experience
 
 - Spring AI Alibaba
+- DeepResearch
 
 ### 🪐Github Analysis
 <div align="center">
