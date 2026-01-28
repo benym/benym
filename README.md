@@ -14,7 +14,7 @@
 ### 🪐Github Analysis
 <div align="center">
 <img height="170px" src="https://github.com/benym/benym/blob/main/.github/profile/stats.svg" />
-<img height="170px" src="https://readme-stats-snowy-zeta.vercel.app/api?user=benym" />
+<img height="170px" src="https://readme-stats-snowy-zeta.vercel.app/api/streak?username=benym" />
 </div>
 
 ### ✅Activity
