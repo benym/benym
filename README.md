@@ -14,7 +14,7 @@
 ### 🪐Github Analysis
 <div align="center">
 <img height="170px" src="https://github.com/benym/benym/blob/main/.github/profile/stats.svg" />
-<img height="170px" src="https://github-readme-stats-fast-ten.vercel.app/api/streak?username=benym" />
+<img height="170px" src="https://github-readme-stats-fast-ten.vercel.app/api/streak?username=benym&theme=default" />
 </div>
 
 ### ✅Activity
