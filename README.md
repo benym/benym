@@ -6,7 +6,7 @@
 - 😎 I'm Focusing on AI Agent and Cloud Native
 - 💡 Participated in Research on Graph Embedding and Generative AI
 
-### ❄️ Skill
+### ❄️ Skills
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
