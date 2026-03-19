@@ -19,8 +19,8 @@
 ### 🙋 Open source experience
 
 - Spring AI Alibaba
-- DeepResearch
 - AgentScope Java
+- DeepResearch
 
 ### 🪐 Github Analysis
 <div align="center">
