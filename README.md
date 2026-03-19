@@ -20,6 +20,7 @@
 
 - Spring AI Alibaba
 - DeepResearch
+- AgentScope Java
 
 ### 🪐 Github Analysis
 <div align="center">
