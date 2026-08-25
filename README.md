@@ -6,6 +6,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=24292F&center=true&vCenter=true&width=560&lines=Hi+there+%F0%9F%91%8B%2C+I%27m+benym;Focusing+on+AI+Agent+%26+Cloud+Native" alt="Typing SVG" />
   </picture>
 
+  <br/>
+
   <img src="https://komarev.com/ghpvc/?username=benym&style=flat-square&color=orange" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/benym?style=flat-square&color=orange&label=Followers" alt="Followers" />
 </div>
@@ -24,8 +26,8 @@
 
 #### 🛠️ Projects I Lead
 
-- 🔖 [**Comet**](https://github.com/rpamis/comet) ![Stars](https://img.shields.io/github/stars/rpamis/comet?style=flat-square&color=yellow) · PMC Member — Agent skill harness for turning ideas into evaluated workflows · [Docs](https://docs.comet.rpamis.com/)
-- 🔨 [**Rpamis-Security**](https://github.com/rpamis/rpamis-security) ![Stars](https://img.shields.io/github/stars/rpamis/rpamis-security?style=flat-square&color=yellow) · Author — A MyBatis encryption, decryption and desensitization component
+- 🔖 [**Comet**](https://github.com/rpamis/comet) · PMC Member — Agent skill harness for turning ideas into evaluated workflows · [Docs](https://docs.comet.rpamis.com/)
+- 🔨 [**Rpamis-Security**](https://github.com/rpamis/rpamis-security) · Author — A MyBatis encryption, decryption and desensitization component
 
 #### 🤝 Communities I Contribute To
 
