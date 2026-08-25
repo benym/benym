@@ -9,7 +9,7 @@
   <br/>
 
   <img src="https://komarev.com/ghpvc/?username=benym&style=flat-square&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/benym?style=flat-square&color=orange&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/benym?style=flat-square&color=orange&label=Followers&logo=github&logoColor=white" alt="Followers" />
   <a href="https://docs.comet.rpamis.com/"><img src="https://img.shields.io/badge/Docs-Comet-2EC4B6?style=flat-square&logo=readthedocs&logoColor=white" alt="Comet Docs" /></a>
 </div>
 
