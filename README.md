@@ -36,17 +36,6 @@
 - [**AgentScope Java**](https://github.com/agentscope-ai/agentscope-java) — Agent-Oriented Programming for building LLM applications
 - [**DeepResearch**](https://github.com/spring-ai-alibaba/deepresearch) — Deep Research agent in the Spring AI Alibaba ecosystem
 
-### 🛠️ Tech Stack
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,spring,docker,redis,mysql,mongodb&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=java,python,spring,docker,redis,mysql,mongodb" alt="Tech Stack" />
-    </picture>
-  </a>
-</div>
-
 ### 🪐 Github Analysis
 
 <div align="center">
