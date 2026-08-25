@@ -10,9 +10,7 @@
   <img src="https://img.shields.io/github/followers/benym?style=flat-square&color=orange&label=Followers" alt="Followers" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2EC4B6,100:FF9F1C&height=2" width="100%" alt="divider" />
-</div>
+---
 
 <h3 align="center">👨‍💻 About Me</h3>
 
@@ -22,48 +20,20 @@
   🌱 Passionate about open source — building and contributing to AI Agent ecosystems
 </div>
 
-<h3 align="center">🌟 Open Source</h3>
+### 🌟 Open Source
 
-<h4 align="center">🛠️ Projects I Lead</h4>
+#### 🛠️ Projects I Lead
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/rpamis/comet"><b>Comet</b></a><br/>
-      <img src="https://img.shields.io/github/stars/rpamis/comet?style=flat-square&color=yellow" alt="Stars" /><br/>
-      <b>🔖 PMC Member</b><br/>
-      Agent skill harness for turning ideas into evaluated workflows<br/>
-      📄 <a href="https://docs.comet.rpamis.com/">Documentation</a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/rpamis/rpamis-security"><b>Rpamis-Security</b></a><br/>
-      <img src="https://img.shields.io/github/stars/rpamis/rpamis-security?style=flat-square&color=yellow" alt="Stars" /><br/>
-      <b>🔨 Author</b><br/>
-      A MyBatis encryption, decryption and desensitization component
-    </td>
-  </tr>
-</table>
+- 🔖 [**Comet**](https://github.com/rpamis/comet) ![Stars](https://img.shields.io/github/stars/rpamis/comet?style=flat-square&color=yellow) · PMC Member — Agent skill harness for turning ideas into evaluated workflows · [Docs](https://docs.comet.rpamis.com/)
+- 🔨 [**Rpamis-Security**](https://github.com/rpamis/rpamis-security) ![Stars](https://img.shields.io/github/stars/rpamis/rpamis-security?style=flat-square&color=yellow) · Author — A MyBatis encryption, decryption and desensitization component
 
-<h4 align="center">🤝 Communities I Contribute To</h4>
+#### 🤝 Communities I Contribute To
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <a href="https://github.com/alibaba/spring-ai-alibaba"><b>Spring AI Alibaba</b></a><br/>
-      Agentic AI Framework for Java Developers
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/agentscope-ai/agentscope-java"><b>AgentScope Java</b></a><br/>
-      Agent-Oriented Programming for building LLM applications
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/spring-ai-alibaba/deepresearch"><b>DeepResearch</b></a><br/>
-      Deep Research agent in the Spring AI Alibaba ecosystem
-    </td>
-  </tr>
-</table>
+- [**Spring AI Alibaba**](https://github.com/alibaba/spring-ai-alibaba) — Agentic AI Framework for Java Developers
+- [**AgentScope Java**](https://github.com/agentscope-ai/agentscope-java) — Agent-Oriented Programming for building LLM applications
+- [**DeepResearch**](https://github.com/spring-ai-alibaba/deepresearch) — Deep Research agent in the Spring AI Alibaba ecosystem
 
-<h3 align="center">🛠️ Tech Stack</h3>
+### 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -76,25 +46,21 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
-<h3 align="center">🪐 GitHub Analysis</h3>
+### 🪐 Github Analysis
 
 <div align="center">
   <img height="170px" src="https://github.com/benym/benym/blob/main/.github/profile/stats.svg" />
   <img height="170px" src="https://github-readme-stats-fast.vercel.app/api/streak?username=benym&theme=default" />
 </div>
 
-<h3 align="center">✅ Activity</h3>
+### ✅ Activity
 
 <div align="center">
   <img src="https://github.com/benym/benym/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
-<h3 align="center">🏆 Trophy</h3>
+### 🏆 Trophy
 
 <div align="center">
   <img src="https://github.com/benym/benym/blob/main/.github/profile/trophy.svg" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EC4B6,100:FF9F1C&height=90&section=footer" width="100%" alt="footer" />
 </div>
