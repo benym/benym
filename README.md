@@ -8,8 +8,9 @@
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=benym&style=flat-square&color=orange" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=benym&style=flat-square&color=blue" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/benym?style=flat-square&color=orange&label=Followers" alt="Followers" />
+  <a href="https://docs.comet.rpamis.com/"><img src="https://img.shields.io/badge/Docs-Comet-2EC4B6?style=flat-square&logo=readthedocs&logoColor=white" alt="Comet Docs" /></a>
 </div>
 
 ---
@@ -26,7 +27,7 @@
 
 #### 🛠️ Projects I Lead
 
-- 🔖 [**Comet**](https://github.com/rpamis/comet) · PMC Member — Agent skill harness for turning ideas into evaluated workflows · [Docs](https://docs.comet.rpamis.com/)
+- 🔖 [**Comet**](https://github.com/rpamis/comet) · PMC Member — Agent skill harness for turning ideas into evaluated workflows
 - 🔨 [**Rpamis-Security**](https://github.com/rpamis/rpamis-security) · Author — A MyBatis encryption, decryption and desensitization component
 
 #### 🤝 Communities I Contribute To
