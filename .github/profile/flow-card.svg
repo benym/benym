@@ -1,0 +1,143 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="220"
+  height="200"
+  viewBox="0 0 220 200"
+  role="img"
+  aria-labelledby="flow-title flow-desc"
+>
+  <title id="flow-title">Continuous agent flow</title>
+  <desc id="flow-desc">Blue and violet nodes continuously travel around an infinity-shaped orchestration loop.</desc>
+
+  <defs>
+    <linearGradient id="flow-gradient" x1="32" y1="58" x2="188" y2="142" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#67C7FF" />
+      <stop offset="0.5" stop-color="#168BFF" />
+      <stop offset="1" stop-color="#6D3EF2" />
+    </linearGradient>
+    <radialGradient id="ambient" cx="0" cy="0" r="1" gradientTransform="translate(110 100) rotate(90) scale(90 104)">
+      <stop offset="0" stop-color="#DCEEFF" stop-opacity="0.72" />
+      <stop offset="0.7" stop-color="#F7FAFF" stop-opacity="0.24" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0" />
+    </radialGradient>
+    <filter id="node-glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3.4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <clipPath id="card-clip">
+      <rect x="0.5" y="0.5" width="219" height="199" rx="12" />
+    </clipPath>
+    <path
+      id="flow-loop"
+      pathLength="100"
+      d="M34 100C34 62 74 54 106 94C138 134 186 138 186 100C186 62 146 54 114 94C82 134 34 138 34 100"
+    />
+  </defs>
+
+  <style>
+    .flow-ribbon {
+      animation: stream 3.6s linear infinite;
+      stroke-dasharray: 13 7;
+      stroke-dashoffset: 0;
+    }
+    .flow-ribbon-secondary {
+      animation: stream-secondary 3.6s linear infinite;
+      stroke-dasharray: 4 16;
+      stroke-dashoffset: 0;
+    }
+    .core {
+      animation: pulse 2.4s ease-in-out infinite;
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+    .halo { animation: halo 2.4s ease-in-out infinite; }
+
+    @keyframes stream {
+      to { stroke-dashoffset: -40; }
+    }
+    @keyframes stream-secondary {
+      to { stroke-dashoffset: -60; }
+    }
+    @keyframes pulse {
+      0%, 100% { transform: scale(0.88); opacity: 0.78; }
+      50% { transform: scale(1.12); opacity: 1; }
+    }
+    @keyframes halo {
+      0%, 100% { opacity: 0.2; }
+      50% { opacity: 0.62; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .flow-ribbon,
+      .flow-ribbon-secondary,
+      .core,
+      .halo { animation: none; }
+      .motion-node { display: none; }
+    }
+  </style>
+
+  <g clip-path="url(#card-clip)">
+    <rect width="220" height="200" fill="#FFFFFF" />
+    <rect width="220" height="200" fill="url(#ambient)" />
+
+    <use href="#flow-loop" fill="none" stroke="#D8E8FA" stroke-width="8" stroke-linecap="round" />
+    <use
+      href="#flow-loop"
+      class="flow-ribbon"
+      fill="none"
+      stroke="url(#flow-gradient)"
+      stroke-width="6"
+      stroke-linecap="round"
+    />
+    <use
+      href="#flow-loop"
+      class="flow-ribbon-secondary"
+      fill="none"
+      stroke="#FFFFFF"
+      stroke-opacity="0.82"
+      stroke-width="2"
+      stroke-linecap="round"
+    />
+
+    <circle class="motion-node" r="5.2" fill="#5EC4FF" filter="url(#node-glow)">
+      <animateMotion dur="3.6s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#flow-loop" />
+      </animateMotion>
+    </circle>
+    <circle class="motion-node" r="4.4" fill="#0B7AF5" filter="url(#node-glow)">
+      <animateMotion dur="3.6s" begin="-1.2s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#flow-loop" />
+      </animateMotion>
+    </circle>
+    <circle class="motion-node" r="4.8" fill="#7748F4" filter="url(#node-glow)">
+      <animateMotion dur="3.6s" begin="-2.4s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#flow-loop" />
+      </animateMotion>
+    </circle>
+
+    <circle class="halo" cx="110" cy="100" r="17" fill="#2A91FF" opacity="0.32" />
+    <g class="core" filter="url(#node-glow)">
+      <rect x="103" y="93" width="14" height="14" rx="4" fill="url(#flow-gradient)" transform="rotate(45 110 100)" />
+      <circle cx="110" cy="100" r="3.2" fill="#FFFFFF" />
+    </g>
+
+    <circle cx="48" cy="71" r="2.2" fill="#80D2FF" opacity="0.7" />
+    <circle cx="172" cy="67" r="1.8" fill="#7750F4" opacity="0.62" />
+    <circle cx="177" cy="133" r="2.4" fill="#348FFF" opacity="0.66" />
+    <circle cx="43" cy="132" r="1.6" fill="#5EC4FF" opacity="0.6" />
+
+    <rect
+      x="0.5"
+      y="0.5"
+      width="219"
+      height="199"
+      rx="12"
+      fill="none"
+      stroke="#7C3AED"
+      stroke-opacity="0.32"
+    />
+  </g>
+</svg>
