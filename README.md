@@ -23,9 +23,10 @@
   🌱 Passionate about open source — building and contributing to AI Agent ecosystems
 </div>
 <br/>
-<div align="center">
-<a href="https://ghfind.com/u/benym?ref=badge"><img src="https://ghfind.com/api/card/mini/benym?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" /></a>
-</div>
+<p align="center">
+  <a href="https://ghfind.com/u/benym?ref=badge"><img src="https://ghfind.com/api/card/mini/benym?variant=radar&amp;theme=light&amp;lang=zh" alt="GitHub Roast 雷达评分卡" width="49%" /></a>
+  <a href="https://ghfind.com/u/benym?ref=badge"><img src="https://ghfind.com/api/card/benym?theme=light&amp;variant=pr" alt="GitHub Roast PR 战绩卡" width="49%" /></a>
+</p>
 
 ### 🌟 Open Source
 
