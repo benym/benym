@@ -12,8 +12,9 @@
   <defs>
     <linearGradient id="flow-gradient" x1="32" y1="58" x2="188" y2="142" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#67C7FF" />
-      <stop offset="0.42" stop-color="#168BFF" />
-      <stop offset="0.76" stop-color="#159FEA" />
+      <stop offset="0.32" stop-color="rgb(53, 139, 247)" />
+      <stop offset="0.58" stop-color="#37B8EE" />
+      <stop offset="0.78" stop-color="#2AC9D9" />
       <stop offset="1" stop-color="#38D5C0" />
     </linearGradient>
     <radialGradient id="ambient" cx="0" cy="0" r="1" gradientTransform="translate(110 100) rotate(90) scale(90 104)">
@@ -54,6 +55,10 @@
       animation: glint 2.4s linear infinite;
       stroke-dasharray: 7 29;
     }
+    .flow-ribbon-cyan {
+      animation: cyan-stream 3.8s linear infinite;
+      stroke-dasharray: 3.5 5.5;
+    }
     .core {
       animation: pulse 2.8s ease-in-out infinite;
       transform-box: fill-box;
@@ -83,6 +88,9 @@
     @keyframes glint {
       to { stroke-dashoffset: -72; }
     }
+    @keyframes cyan-stream {
+      to { stroke-dashoffset: -36; }
+    }
     @keyframes pulse {
       0%, 100% { transform: scale(0.9); opacity: 0.86; }
       50% { transform: scale(1.12); opacity: 1; }
@@ -104,6 +112,7 @@
       .flow-ribbon,
       .flow-ribbon-secondary,
       .flow-ribbon-glint,
+      .flow-ribbon-cyan,
       .core,
       .halo,
       .spark,
@@ -127,9 +136,18 @@
       href="#flow-loop"
       class="flow-ribbon"
       fill="none"
-      stroke="#0C75E8"
-      stroke-opacity="0.9"
+      stroke="rgb(53, 139, 247)"
+      stroke-opacity="0.72"
       stroke-width="7.2"
+      stroke-linecap="round"
+    />
+    <use
+      href="#flow-loop"
+      class="flow-ribbon-cyan"
+      fill="none"
+      stroke="#31C9D9"
+      stroke-opacity="0.9"
+      stroke-width="2.2"
       stroke-linecap="round"
     />
     <use
@@ -156,7 +174,7 @@
         <mpath href="#flow-loop" />
       </animateMotion>
     </circle>
-    <circle class="motion-node" r="4.6" fill="#168BFF" filter="url(#node-glow)">
+    <circle class="motion-node" r="4.6" fill="rgb(53, 139, 247)" filter="url(#node-glow)">
       <animateMotion dur="4.2s" begin="-1.4s" repeatCount="indefinite" rotate="auto">
         <mpath href="#flow-loop" />
       </animateMotion>
@@ -194,7 +212,7 @@
 
     <circle cx="48" cy="71" r="2.2" fill="#80D2FF" opacity="0.78" />
     <circle cx="172" cy="67" r="1.8" fill="#35C9D7" opacity="0.72" />
-    <circle cx="177" cy="133" r="2.4" fill="#168BFF" opacity="0.72" />
+    <circle cx="177" cy="133" r="2.4" fill="rgb(53, 139, 247)" opacity="0.72" />
     <circle cx="43" cy="132" r="1.6" fill="#5EC4FF" opacity="0.72" />
 
     <rect
