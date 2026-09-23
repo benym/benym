@@ -215,15 +215,17 @@
     <circle cx="177" cy="133" r="2.4" fill="rgb(53, 139, 247)" opacity="0.72" />
     <circle cx="43" cy="132" r="1.6" fill="#5EC4FF" opacity="0.72" />
 
-    <rect
-      x="0.5"
-      y="0.5"
-      width="219"
-      height="199"
-      rx="12"
-      fill="none"
-      stroke="#A8E2F2"
-      stroke-opacity="0.62"
-    />
   </g>
+
+  <rect
+    x="1"
+    y="1"
+    width="218"
+    height="198"
+    rx="11.5"
+    fill="none"
+    stroke="#4AAFEF"
+    stroke-width="1.5"
+    stroke-opacity="0.88"
+  />
 </svg>
