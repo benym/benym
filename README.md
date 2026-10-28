@@ -9,6 +9,7 @@
   <br/>
 
   [//]: # (  <img src="https://komarev.com/ghpvc/?username=benym&style=flat-square&color=blue" alt="Profile views" />)
+  <a href="https://bsky.app/"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky" /></a>
   <img src="https://img.shields.io/github/followers/benym?style=flat-square&color=orange&label=Followers&logo=github&logoColor=white" alt="Followers" />
   <a href="https://docs.comet.rpamis.com/"><img src="https://img.shields.io/badge/Docs-Comet-2EC4B6?style=flat-square&logo=readthedocs&logoColor=white" alt="Comet Docs" /></a>
   <a href="https://claude.com/product/claude-code"><img src="img/claude-code-badge.svg" alt="Claude Code" /></a>
