@@ -12,8 +12,8 @@
   <a href="https://bsky.app/"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky" /></a>
   <img src="https://img.shields.io/github/followers/benym?style=flat-square&color=orange&label=Followers&logo=github&logoColor=white" alt="Followers" />
   <a href="https://docs.comet.rpamis.com/"><img src="https://img.shields.io/badge/Docs-Comet-2EC4B6?style=flat-square&logo=readthedocs&logoColor=white" alt="Comet Docs" /></a>
-  <a href="https://claude.com/product/claude-code"><img src="img/claude-code-badge.svg" alt="Claude Code" /></a>
-  <a href="https://openai.com/codex/"><img src="img/codex-badge.svg" alt="Codex" /></a>
+  <a href="https://claude.com/product/claude-code"><img src="img/claude-code-badge.svg?v=flat-cream-2" alt="Claude Code" /></a>
+  <a href="https://openai.com/codex/"><img src="img/codex-badge.svg?v=graphite-2" alt="Codex" /></a>
   <a href="https://space.bilibili.com/7692324?"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
   <a href="https://www.douyin.com/search/comet?aid=cd8fcc82-498b-4d59-8860-617deb719412&amp;modal_id=7646429015808936293&amp;type=general"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   <a href="https://www.xiaohongshu.com/user/profile/5f4dc81a000000000101eaa8"><img src="https://img.shields.io/badge/小红书-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" alt="小红书 / RedNote" /></a>
