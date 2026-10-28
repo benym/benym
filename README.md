@@ -11,17 +11,12 @@
   [//]: # (  <img src="https://komarev.com/ghpvc/?username=benym&style=flat-square&color=blue" alt="Profile views" />)
   <img src="https://img.shields.io/github/followers/benym?style=flat-square&color=orange&label=Followers&logo=github&logoColor=white" alt="Followers" />
   <a href="https://docs.comet.rpamis.com/"><img src="https://img.shields.io/badge/Docs-Comet-2EC4B6?style=flat-square&logo=readthedocs&logoColor=white" alt="Comet Docs" /></a>
-
-  <br/><br/>
-
   <a href="https://space.bilibili.com/7692324?"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
   <a href="https://www.douyin.com/search/comet?aid=cd8fcc82-498b-4d59-8860-617deb719412&amp;modal_id=7646429015808936293&amp;type=general"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   <a href="https://www.xiaohongshu.com/user/profile/5f4dc81a000000000101eaa8"><img src="https://img.shields.io/badge/小红书-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" alt="小红书 / RedNote" /></a>
   <a href="https://x.com/rpamis"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" /></a>
-  <a href="https://www.reddit.com/user/SatisfactionWild7744/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" /></a>
-
   <br/>
-
+  <a href="https://www.reddit.com/user/SatisfactionWild7744/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" /></a>
   <a href="https://store.steampowered.com/"><img src="https://img.shields.io/badge/Steam-171A21?style=flat-square&logo=steam&logoColor=white" alt="Steam" /></a>
   <a href="https://www.npmjs.com/package/@rpamis/comet"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a>
   <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
