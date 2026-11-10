@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">benym&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 13, Total Commits  (last year) : 1097, Total PRs: 152, Total Issues: 111, Contributed to (last year): 15</desc>
+        <desc id="descId">Total Stars Earned: 13, Total Commits  (last year) : 1097, Total PRs: 152, Total Issues: 112, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 84.365747073688;
+        stroke-dashoffset: 84.74882305059042;
       }
     }
   
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >111</text>
+      >112</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
